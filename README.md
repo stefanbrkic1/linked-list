@@ -1,6 +1,6 @@
 # Data Structures | Linked Lists
 
-Singly Linked List data structure made using Javascript.
+Singly Linked List data structure made using Javascript. A singly linked list is the most common type of linked list. Each node has data and an address field that contains a reference to the next node.
 
 ## Singly Linked List
 
